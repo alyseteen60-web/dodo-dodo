@@ -6,7 +6,7 @@ export const siteConfig = {
   "name": "dodo",
   "company": "dodo",
   "branding": {
-    "primaryColor": "#3b82f6",
+    "primaryColor": "#49f40b",
     "secondaryColor": "#ea101b",
     "accentColor": "#38bdf8",
     "font": "Inter",
@@ -29,6 +29,24 @@ export const siteConfig = {
       "category": "Featured",
       "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&auto=format&fit=crop&q=80",
       "description": "High-performance enterprise solution with dedicated 24/7 priority support.",
+      "inStock": true
+    },
+    {
+      "id": "prod-1787573487712",
+      "title": "New Service / Product",
+      "price": "$49.00",
+      "category": "Featured",
+      "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&auto=format&fit=crop&q=80",
+      "description": "High quality solution designed to elevate your business performance.",
+      "inStock": true
+    },
+    {
+      "id": "prod-1787573489662",
+      "title": "New Service / Product",
+      "price": "$49.00",
+      "category": "Featured",
+      "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&auto=format&fit=crop&q=80",
+      "description": "High quality solution designed to elevate your business performance.",
       "inStock": true
     }
   ],
@@ -61,12 +79,25 @@ export const siteConfig = {
         "Custom Domain"
       ],
       "ctaText": "Get Professional"
+    },
+    {
+      "id": "tier-1787573501912",
+      "name": "Custom Package",
+      "price": "$49/mo",
+      "period": "Monthly",
+      "popular": false,
+      "features": [
+        "Essential Access",
+        "Dedicated Support",
+        "Cloud Storage"
+      ],
+      "ctaText": "Choose Package"
     }
   ],
   "contact": {
     "email": "alyseteen60@gmail.com",
-    "phone": "3456yu765432",
-    "whatsapp": "",
-    "address": ""
+    "phone": "01093706027",
+    "whatsapp": "01142466903",
+    "address": "hfhjefghe987347764hjegd738"
   }
 };

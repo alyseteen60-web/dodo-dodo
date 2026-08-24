@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #3b82f6;
+  --secondary: #ea101b;
+  --accent: #38bdf8;
+}
+
+body {
+  color: #1e293b;
+  background: #ffffff;
+  font-family: 'Inter', sans-serif;
+}

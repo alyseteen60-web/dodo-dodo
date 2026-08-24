@@ -10,7 +10,7 @@ export const siteConfig = {
     "secondaryColor": "#ea101b",
     "accentColor": "#38bdf8",
     "font": "Inter",
-    "tagline": "Production Deployment Deployment app-4jji6mpby-workeg.vercel.app Domains app-web-psi-ashen.vercel.app Status Ready Created 18m ago by analolo6000-2808  analolo6000-2808 Avatar Source main 3fcabe6 fix: escape metadata title and description with JSON.stringify in all …  Deployment Settings 3 Recommendations To deploy to Production, drop your project anywhere on this page, connect to git, or run vercel --prod via the CLI. Production Checklist  0/5 Connect Git Repository Add Custom Domain Preview Deployment Enable Web Analytics Enable Speed Insights Observability  6h Edge Requests 162",
+    "tagline": "hi",
     "metaTitle": "dodo | dodo",
     "metaDescription": "Production Deployment\nDeployment\napp-4jji6mpby-workeg.vercel.app\nDomains\napp-web-psi-ashen.vercel.app\nStatus\nReady\nCreated\n18m ago by analolo6000-2808\n\nanalolo6000-2808 Avatar\nSource\nmain\n3fcabe6\nfix: escape metadata title and description with JSON.stringify in all …\n\nDeployment Settings\n3 Recommendations\nTo deploy to Production, drop your project anywhere on this page, connect to git, or run vercel --prod via the CLI.\nProduction Checklist\n\n0/5\nConnect Git Repository\nAdd Custom Domain\nPreview Deployment\nEnable Web Analytics\nEnable Speed Insights\nObservability\n\n6h\nEdge Requests\n162\n"
   },
